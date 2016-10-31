@@ -15,38 +15,28 @@
   background-color: lightgrey;
 
 }
-.title {
-  text-align: center;
-  width: 40%;
-  margin-right: auto;
-  margin-left: auto;
-  font-size: 16pt;
+p {
+  font-size: 16pt
 }
 
 #t1 {
-  color: black;
+  background-color: darkred;
+  color: white;
   font-weight: bold;
-}
-
-#t2 {
-  color: black;
-  font-weight: bold;
-}
- 
-#t3 {
-  color: black;
-  font-weight: bold;
-}
-
-#section {
-  background-color: Gainsboro;
-  margin-left: 20px;
-  margin-right: 20px;
   margin-bottom: 20px;
 }
-
-.text {
-  padding: 10px;
-  font-family: tahoma;
-  font-size: 14pt;
+#t1h2  {
+  font-size: 30pt;
+}
+#t2 {
+  background-color: lightblue;
+  color: darkblue;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+#t3 {
+  background-color: red;
+  color: gold;
+  font-weight: bold;
+  margin-bottom: 20px;
 }
