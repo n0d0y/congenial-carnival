@@ -1,0 +1,52 @@
+#nav-list li:hover {
+  background: grey;
+  font-weight: bold;
+}
+#nav-list li {
+  font-size: 1.8em;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.icon-bar {
+ border: 1px black;
+}
+
+#header-nav {
+  background-color: lightgrey;
+
+}
+.title {
+  text-align: center;
+  width: 40%;
+  margin-right: auto;
+  margin-left: auto;
+  font-size: 16pt;
+}
+
+#t1 {
+  color: black;
+  font-weight: bold;
+}
+
+#t2 {
+  color: black;
+  font-weight: bold;
+}
+ 
+#t3 {
+  color: black;
+  font-weight: bold;
+}
+
+#section {
+  background-color: Gainsboro;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+
+.text {
+  padding: 10px;
+  font-family: tahoma;
+  font-size: 14pt;
+}
