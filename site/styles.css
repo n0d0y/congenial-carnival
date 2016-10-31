@@ -1,5 +1,5 @@
 #nav-list li:hover {
-  background: grey;
+  background: green;
   font-weight: bold;
 }
 #nav-list li {
@@ -12,7 +12,7 @@
 }
 
 #header-nav {
-  background-color: darkred;
+  background-color: lightgrey;
 
 }
 p {
